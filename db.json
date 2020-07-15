@@ -7,18 +7,18 @@
     },
     {
       "id": 2,
-      "title": "json-server",
-      "author": "Ekta"
+      "title": "json-server1",
+      "author": "Ekta1"
     },
     {
       "id": 3,
-      "title": "json-server",
-      "author": "Ekta"
+      "title": "json-server2",
+      "author": "Ekta2"
     },
     {
       "id": 4,
-      "title": "json-server",
-      "author": "Ekta"
+      "title": "json-server3",
+      "author": "Ekta3"
     }
   ]
 }
